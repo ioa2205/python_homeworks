@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 6
+Top Words:
+salom - 2
+assalom - 1
+nima - 1
+gap - 1
+yaxshimisan - 1
